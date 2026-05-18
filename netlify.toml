@@ -3,4 +3,4 @@
   publish = "."
 
 [build.environment]
-  ALLOWED_DOMAIN = "nuestra-historia.netlify.app"
+  ALLOWED_DOMAIN = "para-mi-pedacito-de-cielo.netlify.app"
